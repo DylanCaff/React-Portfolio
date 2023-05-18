@@ -8,10 +8,10 @@ const SocialLinks = () => {
     return (
         <div className='flex flex-col top-[35%] left-0 fixed'>
             <ul>
-                <li className='felx justify-between items-center w-40 h-1/4 px-4 bg-black'>
+                <li className='felx justify-between items-center w-40 h-14 px-4 bg-black'>
                     <a
                         href=''
-                        className='felx justify-between items-center w-full text-white'
+                        className='flex justify-between items-center w-full text-white'
                     >
                         <>
                             LinkedIn <FaLinkedin size={30} />
