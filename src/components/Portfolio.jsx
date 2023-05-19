@@ -11,6 +11,7 @@ const Portfolio = () => {
     const portfolios = [
         {
             id: 1,
+            title: AniMatch,
             src: AniMatch,
             url: 'https://animatch.herokuapp.com/',
             codeUrl: 'https://github.com/BJThompson12/Heroku-Heroes'

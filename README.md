@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+  [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+  # React Portfolio
+  ## Description 📋 
+  
+  ## Table of Contents 🗄️ 
+ - [Frameworks](#Frameworks)
+ - [Installation](#Installation)
+ - [Usage](#Usage)
+ - [License](#License)
+ - [How To Contribute](#HowToContribute)
+ - [Tests](#Tests)
+ - [Questions](#Questions)
+ - [Contact Me](#ContactMe)
+ - [Screenshots](#Screenshots)
+ - [Recordings](#Recordings)
+ - [Acknowledgement](#Acknowledgement)
+  ## Frameworks 🧰
+ Vite and React
+  ## Installation 🛠️ 
+  `npm run start`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  ## Usage 🖥️ 
+  Portfolio is to be used to display my use in react and current current completed projects.
+Go to the following link and enjoy
+  ``
+  
+  Once connected to the server and database, you can use Postman or Insomnia to test the API routes.
+  ## License 🔐  
+  [MIT](https://opensource.org/license/mit/)
+  <br>
+  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-## Available Scripts
+      The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+      
+      THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  ## Contributing 📝 
+  User can submit a PR to the repo and if approved, it will be merged. 
+  ## Tests 🧮
+  No Test Needed.
+  ## Questions ❓
+  [GitHub Profile](github.com/sqweegy12/)  I can be reached at dylancaff0902@gmail.com for any questions.
+   ## Screenshots 📸
+  <a href="">Screenshot</a> 
+ 
+  
+  <a href="">Screenshot 2</a>
+  
+   <a href="">Screenshot 3</a>
+   
+   <a href="">Screenshot 4</a>
 
-In the project directory, you can run:
+  ## Recordings 🎥
+   N/A
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  ## Acknowledgements 🎉
+  N/A
