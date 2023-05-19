@@ -1,6 +1,7 @@
-import React from 'react'
-import HeroImage from '../assets/heroimage.jpeg'
-import {TbArrowRightBar} from 'react-icons/tb'
+import React from 'react';
+import HeroImage from '../assets/heroimage.jpeg';
+import {TbArrowRightBar} from 'react-icons/tb';
+import { Link } from "react-scroll";
 
 const home = () => {
   return (
@@ -17,13 +18,17 @@ const home = () => {
                    I love to work on projects with different types of technologies like node.js, React, MySQL, and many more! 
                 </p>
                 <div>
-                    <button className=' group font-bold text-black w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-neutral-500 to-neutral-500 cursor-pointer'>
-                        Portfolio
-                        <span className='group-hover:rotate-90 duration-300'>
-                        <TbArrowRightBar size={20} 
-                        className='ml-1' />
-                        </span>
-                    </button>
+                <Link
+              to="portfolio"
+              smooth
+              duration={500}
+              className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
+            >
+              Portfolio
+              <span className="group-hover:rotate-90 duration-300">
+                <TbArrowRightBar size={25} className="ml-1" />
+              </span>
+            </Link>
                 </div>
 
             </div>
