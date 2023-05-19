@@ -4,7 +4,7 @@ import NoteTaker from '../assets/portfolio/NoteTaker.png'
 import PJBooks from '../assets/portfolio/PJBooks.png'
 import PasswordGenerator from '../assets/portfolio/PasswordGenerator.png'
 import TextEditor from '../assets/portfolio/TextEditor.png'
-import { Link } from 'react-router-dom';
+
 
 
 const Portfolio = () => {
