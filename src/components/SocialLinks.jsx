@@ -10,7 +10,7 @@ const SocialLinks = () => {
             <ul>
                 <li className='felx justify-between items-center w-40 h-14 px-4 bg-black'>
                     <a
-                        href=''
+                        href='https://www.linkedin.com/in/dylan-cafferatta-4b8826260/'
                         className='flex justify-between items-center w-full text-white'
                     >
                         <>
