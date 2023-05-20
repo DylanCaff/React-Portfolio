@@ -40,14 +40,17 @@ Go to the following link and enjoy
   ## Questions ❓
   [GitHub Profile](github.com/sqweegy12/)  I can be reached at dylancaff0902@gmail.com for any questions.
    ## Screenshots 📸
-  <a href="">Screenshot</a> 
- 
-  
-  <a href="">Screenshot 2</a>
-  
-   <a href="">Screenshot 3</a>
    
-   <a href="">Screenshot 4</a>
+  ![Alt text](/screenshots/home.png)
+
+  ![Alt text](/screenshots/about.png)
+
+  ![Alt text](/screenshots/portfolio.png)
+
+  ![Alt text](/screenshots/experience.png)
+
+  ![Alt text](/screenshots/contact.png)
+
 
   ## Recordings 🎥
    N/A
