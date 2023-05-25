@@ -13,9 +13,9 @@ const home = () => {
                    I'm a Full Stack Developer
                 </h2>
                 <p className=' text-white py-4 max-w-md'>
-                   I am a new developer ready for any challenge thrown my way.
-                   I'm currently completeing a Full Stack Devolpment Bootcamp for Georgia Institute of Technology.
-                   I love to work on projects with different types of technologies like node.js, React, MySQL, and many more! 
+                I am an ambitious new developer, eagerly seeking opportunities to tackle any challenge that comes my way. Currently, I am enrolled in the Full Stack Development Bootcamp at the prestigious Georgia Institute of Technology, where I am honing my skills to become a proficient developer.
+
+                One aspect that truly excites me is the chance to work on diverse projects encompassing various technologies. I thoroughly enjoy exploring the realms of node.js, React, MySQL, and an array of other cutting-edge technologies. The prospect of continuously expanding my knowledge and adapting to new tools invigorates me.
                 </p>
                 <div>
                 <Link
