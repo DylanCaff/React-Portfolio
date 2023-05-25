@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.23814947.css",
-    "main.js": "/static/js/main.41dbbd8b.js",
-    "static/media/PJBooks.png": "/static/media/PJBooks.a7b570ea801c6f49b579.png",
-    "static/media/AniMatch.png": "/static/media/AniMatch.09f743da9afa57d54a6a.png",
-    "static/media/graphql.png": "/static/media/graphql.fc6b9451733c620ceb86.png",
-    "static/media/heroimage.jpeg": "/static/media/heroimage.f1984d7f8ab0891dac17.jpeg",
-    "static/media/NoteTaker.png": "/static/media/NoteTaker.2d9b2034978a586ed3cf.png",
-    "static/media/TextEditor.png": "/static/media/TextEditor.e245b4875fc70c8a2b91.png",
-    "static/media/PasswordGenerator.png": "/static/media/PasswordGenerator.966ca8f15dff89df58f7.png",
-    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/MySQL-icon.png": "/static/media/MySQL-icon.43dc9d7885f4f49c3b33.png",
-    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/index.html",
-    "main.23814947.css.map": "/static/css/main.23814947.css.map",
-    "main.41dbbd8b.js.map": "/static/js/main.41dbbd8b.js.map"
+    "main.css": "/react-portfolio/static/css/main.23814947.css",
+    "main.js": "/react-portfolio/static/js/main.5a224f39.js",
+    "static/media/PJBooks.png": "/react-portfolio/static/media/PJBooks.a7b570ea801c6f49b579.png",
+    "static/media/AniMatch.png": "/react-portfolio/static/media/AniMatch.09f743da9afa57d54a6a.png",
+    "static/media/graphql.png": "/react-portfolio/static/media/graphql.fc6b9451733c620ceb86.png",
+    "static/media/heroimage.jpeg": "/react-portfolio/static/media/heroimage.f1984d7f8ab0891dac17.jpeg",
+    "static/media/NoteTaker.png": "/react-portfolio/static/media/NoteTaker.2d9b2034978a586ed3cf.png",
+    "static/media/TextEditor.png": "/react-portfolio/static/media/TextEditor.e245b4875fc70c8a2b91.png",
+    "static/media/PasswordGenerator.png": "/react-portfolio/static/media/PasswordGenerator.966ca8f15dff89df58f7.png",
+    "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/react-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/react-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/MySQL-icon.png": "/react-portfolio/static/media/MySQL-icon.43dc9d7885f4f49c3b33.png",
+    "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.23814947.css.map": "/react-portfolio/static/css/main.23814947.css.map",
+    "main.5a224f39.js.map": "/react-portfolio/static/js/main.5a224f39.js.map"
   },
   "entrypoints": [
     "static/css/main.23814947.css",
-    "static/js/main.41dbbd8b.js"
+    "static/js/main.5a224f39.js"
   ]
 }
