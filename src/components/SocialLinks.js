@@ -43,7 +43,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30} />
                 </>
             ),
-            href: '/DylanCafferatta.pdf',
+            href:'/DylanCafferatta.pdf',
             style: 'rounded-br-md',
             download: true,
         },
